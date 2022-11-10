@@ -1,0 +1,5 @@
+com\rest\domain\Usuario.class
+com\example\demo\DemoApplication.class
+com\rest\dao\Conexion.class
+com\rest\dao\CrudUsuario.class
+com\rest\interfaces\ImplUsuario.class
